@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gmall0901-cannal" />
+        <module name="gmall0901-common" />
+        <module name="gmall0901-dict" />
+        <module name="gmall0901-dw2es" />
+        <module name="gmall0901-flume-interceptor" />
+        <module name="gmall0901-logger" />
+        <module name="gmall0901-mocker" />
+        <module name="gmall0901-publisher" />
+        <module name="gmall0901-realtime" />
+        <module name="spring-boot-echarts" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
+  </component>
+</project>
